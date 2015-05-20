@@ -1,0 +1,5 @@
++Animation for character
++Jump -> fly-up
++Remove rectile from the other player
+
+-Add Wall for world boundary
