@@ -1,6 +1,7 @@
 +Animation for character
 +Jump -> fly-up
-+Remove rectile/Minimap from the other player
++Remove rectile from the other player
 
--Remove "Radar Static Mesh" from character
+-Remove the "Radar Static Mesh"
+-Add other weapon
 -Add Wall for world boundary
