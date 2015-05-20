@@ -1,5 +1,6 @@
 +Animation for character
 +Jump -> fly-up
-+Remove rectile from the other player
++Remove rectile/Minimap from the other player
 
+-Remove "Radar Static Mesh" from character
 -Add Wall for world boundary
